@@ -1,8 +1,6 @@
-👋 Hi, I’m Loan NGUYEN, a french tech guy based in Ho Chi Minh 🇻🇳 !
+👋 Hi, I’m Loan NGUYEN, a french tech enthusiast based in Ho Chi Minh 🇻🇳 !
 
-👨🏻‍💻 I am currently working as Engineering Manager for Decathlon.
-
-❤️ I love challenges, working in an agile environment and Product oriented, with dynamic people, in a startup mindset, on high-performing and complex systems.
+👨🏻‍💻 I am currently working as an Engineering Manager for Decathlon.
 
 📚 My favorite books are "On m'avait dit que c'était impossible" from Jean-Baptiste RUDELLE, and "Leading" from Alex FERGUSON.
 
