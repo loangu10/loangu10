@@ -1,4 +1,6 @@
-👋 Hi, I’m Loan NGUYEN, a french tech guy based in Ho Chi Minh (Vietnam)
+👋 Hi, I’m Loan NGUYEN, a french tech guy based in Ho Chi Minh 🇻🇳 !
+
+👨🏻‍💻 I am currently working as Engineering Manager for Decathlon.
 
 ❤️ I love challenges, working in an agile environment and Product oriented, with dynamic people, in a startup mindset, on high-performing and complex systems.
 
